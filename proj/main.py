@@ -12,7 +12,7 @@ options.add_argument("--headless")
 connector = mysql.connector.connect(
     host = "localhost",
     user='root',
-    password='Monstr@o171',
+    password='12345',
     database = 'db_movies_comments'
 )
 
